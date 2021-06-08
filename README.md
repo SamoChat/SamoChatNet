@@ -2,11 +2,11 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 [![NuGet](https://img.shields.io/nuget/v/CovidSharp.svg?label=NuGet)](https://www.nuget.org/packages/SamoChatNet/)
 ![NuGet](https://img.shields.io/nuget/dt/samochatnet.svg)
-[![GitHub stars](https://img.shields.io/github/stars/Abdirahiim/samochatnet)](https://github.com/samochat/samochatnet/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Abdirahiim/samochatnet)](https://github.com/samochat/samochatnet/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/SamoChat/SamoChatNet)](https://github.com/SamoChat/SamoChatNet/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/SamoChat/SamoChatNet)](https://github.com/SamoChat/SamoChatNetnetwork/members)
 [![HitCount](http://hits.dwyl.com/samochat/samochatnet.svg)](http://hits.dwyl.com/samochat/samochatnet)
 
-SamoChatNet is a crossplatform library for the [SamoChat API](https://api.samochat.net)
+SamoChatNet is a crossplatform library for the [SamoChat](https://samochat.net) API
 
 
 ## Installation
