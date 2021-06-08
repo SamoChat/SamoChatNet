@@ -23,4 +23,5 @@ using SamoChatNet;
 SamoChatData data = new SamoChatData();
 ```
 
+## Documentation
 You can find examples and the documentation at https://developers.samochat.net
