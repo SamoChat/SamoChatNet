@@ -1,6 +1,6 @@
 # SamoChatNet
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-[![NuGet](https://img.shields.io/nuget/v/CovidSharp.svg?label=NuGet)](https://www.nuget.org/packages/SamoChatNet/)
+[![NuGet](https://img.shields.io/nuget/v/SamoChatNet.svg?label=NuGet)](https://www.nuget.org/packages/SamoChatNet/)
 ![NuGet](https://img.shields.io/nuget/dt/samochatnet.svg)
 [![GitHub stars](https://img.shields.io/github/stars/SamoChat/SamoChatNet)](https://github.com/SamoChat/SamoChatNet/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/SamoChat/SamoChatNet)](https://github.com/SamoChat/SamoChatNetnetwork/members)
