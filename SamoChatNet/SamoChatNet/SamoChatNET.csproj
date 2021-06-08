@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.0</Version>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Copyright>2021 (C) Samsoft</Copyright>
+    <Authors>Samsoft</Authors>
+    <Company>Samsoft</Company>
+    <PackageProjectUrl>http://https://github.com/Abdirahiim/covidtrackerapiwrapper/</PackageProjectUrl>
+    <Description>SamochatNet is a libray for the SamoChat API</Description>
+    <PackageTags>SamoChat SamochatNet Samsoft</PackageTags>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseUrl>https://github.com/Abdirahiim/covidtrackerapiwrapper/blob/master/LICENSE.txt</PackageLicenseUrl>
+    <OutputType>Library</OutputType>
+    <RootNamespace>SamochatNet</RootNamespace>
+    <AssemblyName>SamoChatNet</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="RestSharp" Version="106.10.1" />
+  </ItemGroup>
+
+</Project>

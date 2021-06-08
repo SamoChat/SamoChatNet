@@ -1,0 +1,7 @@
+version: 1.0.{build}
+pull_requests:
+environment:
+  SamoChatNet: SamoChatNET.sln
+build:
+  project: SamoChatNet/SamoChatNET.sln
+  verbosity: minimal
