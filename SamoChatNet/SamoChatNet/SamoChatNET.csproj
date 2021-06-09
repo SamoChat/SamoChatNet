@@ -7,12 +7,12 @@
     <Copyright>2021 (C) Samsoft</Copyright>
     <Authors>Samsoft</Authors>
     <Company>Samsoft</Company>
-    <PackageProjectUrl>http://https://github.com/Abdirahiim/covidtrackerapiwrapper/</PackageProjectUrl>
-    <Description>SamochatNet is a libray for the SamoChat API</Description>
+    <PackageProjectUrl>https://github.com/SamoChat/SamoChatNet</PackageProjectUrl>
+    <Description>SamoChatNet is a crossplatform library for the SamoChat API</Description>
     <PackageTags>SamoChat SamochatNet Samsoft</PackageTags>
     <PackageReleaseNotes>First release</PackageReleaseNotes>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <PackageLicenseUrl>https://github.com/Abdirahiim/covidtrackerapiwrapper/blob/master/LICENSE.txt</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/SamoChat/SamoChatNet/blob/main/LICENSE.md</PackageLicenseUrl>
     <OutputType>Library</OutputType>
     <RootNamespace>SamochatNet</RootNamespace>
     <AssemblyName>SamoChatNet</AssemblyName>
