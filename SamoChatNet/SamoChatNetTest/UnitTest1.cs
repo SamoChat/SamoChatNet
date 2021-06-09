@@ -13,8 +13,8 @@ namespace SamoChatNetTest
 
         SamoChatData data = new SamoChatData();
 
-        string ClientID = "ClientID";
-        string ClientSecret = "ClientSecret";
+        string ClientID = Environment.GetEnvironmentVariable("ClientID");
+        string ClientSecret = Environment.GetEnvironmentVariable("ClientSecret");
 
         [TestMethod]
         public void TestGetAge()

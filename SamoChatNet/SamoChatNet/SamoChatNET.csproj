@@ -16,6 +16,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>SamochatNet</RootNamespace>
     <AssemblyName>SamoChatNet</AssemblyName>
+    <ApplicationIcon>samochat logo.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
