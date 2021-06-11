@@ -14,8 +14,8 @@ namespace SamoChatNet_example
             SamoChatData data = new SamoChatData();
 
             //Client Credentials
-            SamoChatConfig.ClientID = "0i4X9K8ZnfCpRB6PSrhP3sMWw08eiRXx";
-            SamoChatConfig.ClientSecret = "wC8FS8Wt8dofFArS9LOGXIWWaehy6xx3qOucL3UKnBUmp7XmnREy4OF9NaYgoIQ9";
+            SamoChatConfig.ClientID = "ClientID";
+            SamoChatConfig.ClientSecret = "ClientSecret";
 
             string username = "SamoChat";
 
